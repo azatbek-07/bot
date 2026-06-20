@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1280386647,
+            "type": "user",
+            "name": "Foydalanuvchi 1",
+            "username": "@user1",
+            "added_date": "2026-06-20"
+        }
+    ],
+    "groups": [
+        {
+            "id": -1003459425471,
+            "type": "group",
+            "name": "Guruh nomi",
+            "username": "@group1",
+            "added_date": "2026-06-20"
+        }
+    ],
+    "channels": [
+        {
+            "id": -1004419389380,
+            "type": "channel",
+            "name": "Kanal nomi",
+            "username": "@channel1",
+            "added_date": "2026-06-20"
+        }
+    ]
+}
